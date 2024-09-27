@@ -1,0 +1,61 @@
+[
+  {
+    "name": "WanderLust Website",
+    "desc": "Listing website that can be edited,Deleted,Created. Built using Express,Mongodb,Javascript,Cloudinary",
+    "image": "",
+    "category": "Web",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Amsaho/Wanderlust"
+    }
+  },{
+    "name": "Student Management System",
+    "desc": "Managing student,staff,Hod with Crud operation. Built using Django,Sqlite,Javascript,Bootstrap",
+    "image": "",
+    "category": "Web",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Amsaho/django-student-management-system-master"
+    }
+  },
+  {
+    "name": "Employee Management System",
+    "desc": "Managing Employee,Updating,Deleting and Creating with RESTFul APIs. Built using Spring Boot,Mysql,Javascript,Bootstrap",
+    "image": "",
+    "category": "Web",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Amsaho/django-student-management-system-master"
+    }
+  },
+  {
+    "name": "Authenicated System with Face Recognition",
+    "desc": "Authenication with face for student registration,login and attendance panel,admin panel . Built using Flask,Mongodb,Javascript,Bootstrap,cloudinary,Html",
+    "image": "",
+    "category": "Web",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Amsaho/authenicate_system_using_face_recognition.git"
+    }
+  }
+  ,{
+    "name": "Weather App using React",
+    "desc": "Finding out corresponding weather of a city. Built using React,Javascript,Weatherapp Api,Html",
+    "image": "",
+    "category": "React App",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Amsaho/React-WeatherApp"
+    }
+  },{
+    "name": " Pokemon Pokedex using React",
+    "desc": "Finding out corresponding pokemon in a pokedex. Built using React,Javascript,Pokemon Api,Html",
+    "image": "",
+    "category": "React App",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Amsaho/pokemon-react"
+    }
+  }
+]
+  
